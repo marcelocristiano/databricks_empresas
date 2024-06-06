@@ -20,8 +20,10 @@ Os dados contidos no arquivo são dados simulados não representando nenhuma emp
 
 # Imagem de representação do aquivo.
 
-<img width="937" alt="image" src="https://github.com/marcelocristiano/empresas/assets/25067628/924afd09-5eb5-4022-9303-2b11e4742eff">
+<p><img src="https://i.ibb.co/fMgpxpb/Captura-de-tela-2024-06-06-140132.png" alt="Esboço da Tela"></p>
 
 # Imagem da tabela gerada.
 
-<img width="585" alt="image" src="https://github.com/marcelocristiano/empresas/assets/25067628/a1864233-72f4-4ff5-a1c2-be014bf0436c">
+<img width="585" alt="image" src="https://i.ibb.co/GQdttSz/Captura-de-tela-2024-06-06-141555.png">
+
+
